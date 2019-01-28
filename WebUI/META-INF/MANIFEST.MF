@@ -36,5 +36,10 @@ Require-Bundle: com.ibm.rational.test.lt.kernel,
   com.ibm.rational.test.rtw.webgui.selenium,
   com.ibm.rational.test.rtw.webgui.playback.selenium,
   com.ibm.rational.test.rtw.webgui.playback,
+<<<<<<< HEAD
   com.ibm.rational.test.rtw.webgui.execution
+=======
+  com.ibm.rational.test.rtw.webgui.execution,
+  com.ibm.rational.test.lt.execution.http
+>>>>>>> branch 'master' of https://github.com/JhansiMR/CutomScriptsRepo
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
