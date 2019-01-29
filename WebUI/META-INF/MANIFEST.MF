@@ -30,5 +30,20 @@ Require-Bundle: com.ibm.rational.test.lt.kernel,
   org.eclipse.tptp.platform.collection.framework,
   org.eclipse.emf.ecore.xmi,
   org.eclipse.tptp.platform.models.hierarchy,
+<<<<<<< HEAD
   org.eclipse.tptp.platform.models
+=======
+  org.eclipse.tptp.platform.models,
+  com.ibm.rational.test.lt.execution.moeb,
+  com.ibm.rational.test.lt.core.moeb,
+  com.ibm.rational.test.rtw.webgui.selenium,
+  com.ibm.rational.test.rtw.webgui.playback.selenium,
+  com.ibm.rational.test.rtw.webgui.playback,
+<<<<<<< HEAD
+  com.ibm.rational.test.rtw.webgui.execution
+=======
+  com.ibm.rational.test.rtw.webgui.execution,
+  com.ibm.rational.test.lt.execution.http
+>>>>>>> branch 'master' of https://github.com/JhansiMR/CutomScriptsRepo
+>>>>>>> branch 'master' of https://github.com/JhansiMR/CutomScriptsRepo
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
